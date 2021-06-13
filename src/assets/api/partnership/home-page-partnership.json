@@ -1,0 +1,51 @@
+[
+    {
+      "Title":"Buabo",
+      "SubTitle":"Sub Title for Buabo",
+      "ImageUrl":"assets/image/partnership/Buabo.jpg",
+      "RefDetails":"RefDetails",
+      "StyleDetails" : "a"
+    },
+      {
+        "Title":"Demandbase",
+        "SubTitle":"Sub Title for Demandbase",
+        "ImageUrl":"assets/image/partnership/Demandbase.png",
+        "RefDetails":"RefDetails",
+        "StyleDetails" : "a"
+      },
+      {
+        "Title":"MasterCard",
+        "SubTitle":"Sub Title for MasterCard",
+        "ImageUrl":"assets/image/partnership/MasterCard.png",
+        "RefDetails":"RefDetails",
+        "StyleDetails" : "a"
+      },
+      {
+        "Title":"NedBank",
+        "SubTitle":"Sub Title for NedBank",
+        "ImageUrl":"assets/image/partnership/NedBank.png",
+        "RefDetails":"RefDetails",
+        "StyleDetails" : "a"
+      },
+      {
+        "Title":"OldMutual",
+        "SubTitle":"Sub Title for OldMutual",
+        "ImageUrl":"assets/image/partnership/OldMutual.png",
+        "RefDetails":"RefDetails",
+        "StyleDetails" : "a"
+      },
+      {
+        "Title":"SunInternational",
+        "SubTitle":"Sub Title for SunInternational",
+        "ImageUrl":"assets/image/partnership/SunInternational.png",
+        "RefDetails":"RefDetails",
+        "StyleDetails" : "a"
+      },
+      {
+        "Title":"Tektronix",
+        "SubTitle":"Sub Title for Tektronix",
+        "ImageUrl":"assets/image/partnership/Tektronix.png",
+        "RefDetails":"RefDetails",
+        "StyleDetails" : "a"
+      }
+]

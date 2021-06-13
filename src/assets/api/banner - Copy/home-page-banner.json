@@ -1,0 +1,37 @@
+[
+    {
+      "Title":"Title 1",
+      "SubTitle":"Sub Title for Title 1",
+      "ImageUrl":"assets/image/home-banner/th.jpg",
+      "ProductID":101,
+      "StyleDetails" : "a"
+    },
+      {
+        "Title":"Title 2",
+        "SubTitle":"Sub Title for Title 2",
+        "ImageUrl":"assets/image/home-banner/th.jpg",
+        "ProductID":102,
+        "StyleDetails" : "a"
+      },
+      {
+        "Title":"Title 3",
+        "SubTitle":"Sub Title for Title 3",
+        "ImageUrl":"assets/image/home-banner/th.jpg",
+        "ProductID":103,
+        "StyleDetails" : "a"
+      },
+      {
+        "Title":"Title 4",
+        "SubTitle":"Sub Title for Title 4",
+        "ImageUrl":"assets/image/home-banner/th.jpg",
+        "ProductID":104,
+        "StyleDetails" : "a"
+      },
+      {
+        "Title":"Title 5",
+        "SubTitle":"Sub Title for Title 5",
+        "ImageUrl":"assets/image/home-banner/th.jpg",
+        "ProductID":105,
+        "StyleDetails" : "a"
+      }
+]

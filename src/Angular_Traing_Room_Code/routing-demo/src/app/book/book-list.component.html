@@ -1,0 +1,25 @@
+<h2> {{ title }} </h2>
+
+
+
+<thead>
+    <th><button type="button" class="btn btn-primary" (click)="toggleImage()">{{showImage?'Hide':'Show'}}</button></th>
+    <th>Book Name</th>
+    <th>ISBN Code</th>
+    <th>Author Name</th>
+    <th>publishedOn</th>
+    <th>Price</th>
+</thead>
+<tbody>
+    <tr *ngFor='let book of books'>
+        <td><img [src]="book.imageUrl" [width]="imageHeight" [height]="imageWidth" *ngIf=showImage></td>
+        <td>
+            <a [routerLink]="['/books',book.bookID]">{{book.title}}</a>
+        </td>
+        <td>{{book.code}}</td>
+        <td>{{book.author}}</td>
+        <td>{{book.publicationDate}}</td>
+        <td>{{book.price}}</td>
+    </tr>
+</tbody>
+

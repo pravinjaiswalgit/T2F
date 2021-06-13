@@ -1,0 +1,197 @@
+/* performance number 3 */
+.performancenumberthree {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    padding: 50px 0;
+  }
+  .performancenumberthree .container {
+    width: 750px;
+  }
+  .performancenumberthree .performancenumberthree__container {
+    width: 100%;
+  }
+  
+  .performancenumberthree .performancenumberthree__title {
+    font-size: 55px;
+    padding-top: 10px;
+    padding-left: 14px;
+    /* font-family: Oswald-Light; */
+  }
+  
+  .performancenumberthree .performanceNumberthree__desc {
+    font-size: 19px;
+    margin-bottom: 10px;
+  }
+  
+  .performancenumberthree .performancethreebg {
+    width: 100%;
+    height: 100%;
+    background: -webkit-linear-gradient(
+      277deg,
+      #c6dde7 4%,
+      #01a99f 40%,
+      #00a99d 100%
+    ) !important;
+    background: -o-linear-gradient(
+      277deg,
+      #c6dde7 4%,
+      #01a99f 40%,
+      #00a99d 100%
+    ) !important;
+    background: -ms-linear-gradient(
+      277deg,
+      #c6dde7 4%,
+      #01a99f 40%,
+      #00a99d 100%
+    ) !important;
+    background: linear-gradient(
+      277deg,
+      #c6dde7 4%,
+      #01a99f 40%,
+      #00a99d 100%
+    ) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c6dde7', endColorstr='#00A99D', GradientType=0);
+  
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 10% 100%) !important;
+  }
+  
+  .performancenumberthree .cardskey {
+    display: flex;
+    flex-direction: column;
+    width: 310px;
+    margin: 5px 25px;
+  }
+  .performancenumberthree .cardsnumber {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 80px;
+    flex: 0 1 20%;
+  }
+  
+  .performancenumberthree .cards:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .performancenumberthree img {
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .performancenumberthree .cardsnumber .container {
+    padding: 0;
+  }
+  
+  .performancenumberthree .text-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .performancenumberthree .subtext {
+    /* padding: 0px 22px; */
+    padding-top: 10px;
+  }
+  
+  .performancenumberthree .map {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .performancenumberthree .row-map {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .performancenumberthree .map-icon {
+    width: 28px;
+    margin: 8px;
+  }
+  
+  .performancenumberthree .map-icon2 {
+    width: 50px;
+    padding: 0 8px 0 10px;
+    margin-left: 10px;
+  }
+  
+  .performancenumberthree .uparrow {
+    top: 15px;
+  }
+  
+  .performancenumberthree .pnuparrow-icon {
+    width: 20px;
+    font-size: 24px;
+    margin: 4px;
+    height: 46px;
+    position: relative;
+    bottom: -8px;
+  }
+  
+  .performancenumberthree h4 {
+    font-size: 50px;
+    font-weight: 800;
+  }
+  
+  .performancenumberthree .fsize {
+    font-weight: 400;
+    padding-left: 10px;
+    color: white;
+    /* font-family: Oswald-Light; */
+    margin-bottom: 3px;
+    margin-top: 2px;
+  }
+  .performancenumberthree .fh5 {
+    /* font-family: Oswald-Light; */
+    margin-bottom: 0px;
+  }
+  
+  @media only screen and (max-width: 539.98px) {
+    .performancenumberthree .performanceNumberthree__desc {
+      margin-bottom: 10px !important;
+    }
+    .performancenumberthree .cardsnumber {
+      flex: 0 1 61%;
+    }
+    .performancenumberthree .performancenumberthree__title {
+      font-size: 44px;
+    }
+    .performancenumberthree .subtext {
+      padding-top: 6px;
+      padding-bottom: 6px;
+    }
+  
+    .performancenumberthree .fh5 {
+      font-size: 1rem;
+      padding: 7px;
+      margin-bottom: 0;
+      margin-top: 0px;
+    }
+    .performancenumberthree h4 {
+      font-size: 40px;
+    }
+    .performancenumberthree .pnuparrow-icon {
+      height: 37px;
+      bottom: 3px;
+    }
+    .performancenumberthree .cardskey {
+      margin: auto;
+      width: 300px;
+    }
+  }
+  
+  @media only screen and (min-width: 540px) and (max-width: 1083px) {
+    .performancenumberthree .cardsnumber {
+      flex: 0 1 38%;
+    }
+  }
+  
+  /* performance number Ends*/
+  

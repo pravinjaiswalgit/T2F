@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 313 304" style="enable-background:new 0 0 313 304;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0078D4;}
+	.st1{fill:none;stroke:#0078D4;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#50E6FF;stroke-miterlimit:10;}
+	.st3{fill:#50E6FF;}
+</style>
+<g>
+	<path class="st0" d="M231.5,16L231.5,16c-3.9,0-7-3.1-7-7v0c0-3.9,3.1-7,7-7h0c3.9,0,7,3.1,7,7v0C238.5,12.8,235.3,16,231.5,16z"/>
+	<path class="st0" d="M88.5,16L88.5,16c-3.9,0-7-3.1-7-7v0c0-3.9,3.1-7,7-7h0c3.9,0,7,3.1,7,7v0C95.4,12.8,92.3,16,88.5,16z"/>
+	<path class="st0" d="M231.5,302L231.5,302c-3.9,0-7-3.1-7-7v0c0-3.9,3.1-7,7-7h0c3.9,0,7,3.1,7,7v0
+		C238.5,298.9,235.3,302,231.5,302z"/>
+	<path class="st0" d="M88.5,302L88.5,302c-3.9,0-7-3.1-7-7v0c0-3.9,3.1-7,7-7h0c3.9,0,7,3.1,7,7v0C95.4,298.9,92.3,302,88.5,302z"/>
+	<path class="st0" d="M160,159L160,159c-3.9,0-7-3.1-7-7v0c0-3.9,3.1-7,7-7h0c3.9,0,7,3.1,7,7l0,0C167,155.9,163.8,159,160,159z"/>
+	<path class="st0" d="M303,159L303,159c-3.9,0-7-3.1-7-7l0,0c0-3.9,3.1-7,7-7h0c3.9,0,7,3.1,7,7l0,0C310,155.9,306.9,159,303,159z"
+		/>
+	<line class="st1" x1="17" y1="152" x2="88.5" y2="295"/>
+	<line class="st1" x1="160" y1="152" x2="231.5" y2="295"/>
+	<line class="st1" x1="303" y1="152" x2="231.5" y2="295"/>
+	<line class="st1" x1="160" y1="152" x2="88.5" y2="295"/>
+	<line class="st1" x1="303" y1="152" x2="231.5" y2="9"/>
+	<line class="st1" x1="160" y1="152" x2="88.5" y2="9"/>
+	<line class="st1" x1="17" y1="152" x2="88.5" y2="9"/>
+	<line class="st2" x1="17" y1="152" x2="64.4" y2="57.2"/>
+	<line class="st1" x1="160" y1="152" x2="231.5" y2="9"/>
+	<line class="st1" x1="88.5" y1="295" x2="231.5" y2="295"/>
+	<line class="st1" x1="88.5" y1="9" x2="231.5" y2="9"/>
+	<line class="st1" x1="160" y1="152" x2="303" y2="152"/>
+	<line class="st1" x1="17" y1="152" x2="160" y2="152"/>
+	<line class="st1" x1="17" y1="152" x2="231.5" y2="9"/>
+	<line class="st2" x1="17" y1="152" x2="112" y2="88.7"/>
+	<line class="st1" x1="303" y1="152" x2="88.5" y2="9"/>
+	<line class="st1" x1="303" y1="152" x2="88.5" y2="295"/>
+	<line class="st1" x1="17" y1="152" x2="231.5" y2="295"/>
+	<line class="st2" x1="17" y1="152" x2="103.8" y2="209.9"/>
+	<path class="st3" d="M17,166L17,166c-7.7,0-14-6.2-14-14v0c0-7.7,6.2-14,14-14h0c7.7,0,14,6.2,14,14v0C30.9,159.7,24.7,166,17,166z
+		"/>
+</g>
+</svg>

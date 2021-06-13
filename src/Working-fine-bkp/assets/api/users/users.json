@@ -1,0 +1,61 @@
+[
+    {
+        "userName":"User 1",
+        "userAge":50,
+        "userGender":"M",
+        "userMobiler":8888888881,
+        "userPhone":8888888881,
+        "userIncome":5000,
+        "userID":1,
+        "userOtherDetails":"other details 1",
+        "userAdhar" : "1234567891",
+        "imageUrl":"assets/images/book1.jpg"
+      },
+      {
+        "userName":"User 2",
+        "userAge":30,
+        "userGender":"M",
+        "userMobiler":8888888882,
+        "userPhone":8888888882,
+        "userIncome":3000,
+        "userID":2,
+        "userOtherDetails":"other details 2",
+        "userAdhar" : "123456782",
+        "imageUrl":"assets/images/book1.jpg"
+      },
+      {
+        "userName":"User 3",
+        "userAge":20,
+        "userGender":"M",
+        "userMobiler":8888888883,
+        "userPhone":8888888883,
+        "userIncome":2000,
+        "userID":3,
+        "userOtherDetails":"other details 3",
+        "userAdhar" : "123456783",
+        "imageUrl":"assets/images/book1.jpg"
+      },
+      {
+        "userName":"User 4",
+        "userAge":40,
+        "userGender":"M",
+        "userMobiler":8888888884,
+        "userPhone":8888888884,
+        "userIncome":4000,
+        "userID":4,
+        "userOtherDetails":"other details 4",
+        "userAdhar" : "123456784",
+        "imageUrl":"assets/images/book1.jpg"
+      },
+      {
+        "userName":"User 5",
+        "userAge":80,
+        "userGender":"M",
+        "userMobiler":8888888888,
+        "userPhone":8888888888,
+        "userID":5,
+        "userOtherDetails":"other details 5",
+        "userAdhar" : "123456785",
+        "imageUrl":"assets/images/book1.jpg"
+      }
+]

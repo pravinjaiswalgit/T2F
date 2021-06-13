@@ -1,0 +1,49 @@
+ <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">T2F</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" routerLink="/home">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/contactus">Contact Us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/userlist">Our Team</a>
+        </li>
+        <li>
+          <label class="nav-link">User Name : Test User</label>
+        </li>
+      </ul>
+    </div>
+  </nav> 
+
+
+<!-- 
+{path:'home',component:UserComponent},
+{path:'about',component:AboutComponent},
+{path:'contactus',component:ContactusComponent},
+{path:'userlist',component:UserComponent},
+{path:'userdetails',component:UserdetailsComponent}
+
+
+<app-header></app-header>
+<app-user></app-user>
+<app-banner></app-banner>
+<app-footer></app-footer> 
+-->
+
+<!-- <div>
+  <a routerLink ='eagar-loading'>Eagar Link</a>
+</div> -->
+
+<div class="container">
+  <router-outlet></router-outlet>
+</div>
+

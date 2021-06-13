@@ -1,0 +1,15 @@
+<!-- {{ teams | json }} -->
+<h2>Our Team!</h2>
+<table>
+<tbody>
+    <tr *ngFor='let team of teams' >
+        <td><img [src]= "team.ImageUrl" style="width:100%; height: 100%;"/></td>
+        <!-- <td><a class="nav-link" [routerLink]="['/userlist',user.UserID]">{{user.Name}}</a></td> -->
+        <td>{{team.Name}}</td>
+        <td>{{team.OtherDetails}}</td>
+    </tr>
+</tbody>
+</table>
+
+
+

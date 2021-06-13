@@ -1,0 +1,12 @@
+<div>
+    <span><h5> Promotion:</h5></span> 
+    <span><h5> Promotion Description</h5></span>
+</div>
+<div  *ngFor = 'let promotion of promotions'>
+    <div [class] ="promotion.StyleDetails" style="width: 20rem;">
+        <div class="card-body">
+            <h3 class="card-title">{{promotion.Title}}</h3>
+            <p class="card-text">{{promotion.SubTitle}}</p>
+        </div>
+    </div>
+</div>

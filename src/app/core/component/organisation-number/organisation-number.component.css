@@ -1,0 +1,144 @@
+.multikeynumber .performancebg {
+    width: 100%;
+    left: 0px;
+    top: 0;
+    bottom: 85px;
+    z-index: -1;
+    background: -webkit-linear-gradient(to bottom, #00a99d, #01a99f, #04d8ca);
+    background: -o-linear-gradient(to bottom, #00a99d, #01a99f, #04d8ca);
+    background: -ms-linear-gradient(to bottom, #00a99d, #01a99f, #04d8ca);
+    background-image: linear-gradient(to bottom, #00a99d, #01a99f, #03c3b7);
+    padding: 30px 20px;
+    position: absolute;
+  }
+  
+  .multikeynumber .performanceNumberone__title {
+    font-size: 55px;
+    padding-top: 20px;
+    padding-left: 20px;
+    color: #fff;
+    /* font-family: Oswald-Light; */
+  }
+  
+  .multikeynumber .performanceNumberone__desc {
+    font-size: 19px;
+    padding-left: 20px;
+    color: #fff;
+  }
+  
+  .multikeynumber .performanceNumberone__cardlist {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    align-items: center;
+  }
+  
+  .multikeynumber .cards {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 200px;
+    margin: 20px;
+    background: #fff;
+  }
+  
+  .multikeynumber .cards:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .multikeynumber img {
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .multikeynumber .text-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .multikeynumber .map {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .multikeynumber .map-icon {
+    width: 35px;
+  }
+  
+  .multikeynumber .uparrow {
+    top: 15px;
+  }
+  
+  .multikeynumber .uparrow-icon {
+    width: 20px;
+    font-size: 24px;
+    margin: 4px;
+    height: 46px;
+  }
+  
+  .multikeynumber h4 {
+    font-size: 50px;
+    font-weight: 800;
+    margin-top: 0;
+    /* font-family: Oswald-Light; */
+  }
+  
+  @media only screen and (max-width: 539.98px) {
+    .multikeynumber .cards {
+      width: 45%;
+      margin: 10px 5px;
+    }
+    .multikeynumber .performanceNumberone__title {
+      font-size: 44px;
+    }
+    .multikeynumber .subtext-container h5 {
+      font-size: 1rem;
+    }
+    .multikeynumber .cards {
+      min-height: 170px;
+    }
+    .multikeynumber h4 {
+      font-size: 40px;
+      font-weight: 800;
+      margin-top: 0;
+    }
+  
+    .multikeynumber .performanceNumberone {
+      padding: 0 10px;
+      margin: 0;
+    }
+  
+    .multikeynumber .performancebg {
+      background: -webkit-linear-gradient(#01a99f 40%, #00a99d 100%) !important;
+      background: -o-linear-gradient(#01a99f 40%, #00a99d 100%) !important;
+      background: -ms-linear-gradient(#01a99f 40%, #00a99d 100%) !important;
+      background: linear-gradient(#01a99f 40%, #00a99d 100%) !important;
+      /* filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c6dde7', endColorstr='#00A99D', GradientType=0);
+      clip-path: polygon(0% 0%, 145% 0%, 23% 100%, 0% 100%) !important; */
+    }
+  
+    *,
+    :after,
+    :before {
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+  
+    .multikeynumber .subtext-container {
+      text-align: center;
+    }
+  }
+  
+  .multikeynumber .container {
+    max-width: 90%;
+  }
+  .multikeynumber .subtext-container h5 {
+    /* font-family: Oswald-Light; */
+    word-break: break-all;
+  }
+  

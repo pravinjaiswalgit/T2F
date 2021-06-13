@@ -1,0 +1,106 @@
+/* Partnership Starts*/
+.partner-logo {
+    overflow: hidden;
+    height: 200px;
+    border: 1px solid #eee;
+  }
+  
+  .bg--overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    left: 0;
+  }
+  
+  .side-bannermainrow {
+    height: 100%;
+  }
+  .flex-row-reverse {
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: reverse !important;
+    -ms-flex-direction: row-reverse !important;
+    flex-direction: row-reverse !important;
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .partner-logo {
+      height: 145px;
+    }
+  }
+  
+  .partner-logo img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    max-height: 45%;
+    max-width: 90%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .side-banner {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .side-banner .content {
+    padding: 30px;
+    position: absolute;
+    bottom: 10%;
+    color: #fff;
+    text-shadow: 2px 2px 20px #000;
+    z-index: 2;
+  }
+  
+  .side-banner .content h1 {
+    /* font-family: "Oswald-Light"; */
+    font-size: 60px;
+  }
+  
+  .side-banner .content p {
+    /* font-family: "Oswald-Light"; */
+    font-size: 20px;
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .side-banner .content {
+      padding: 30px;
+    }
+  
+    .side-banner .content h1 {
+      font-size: 40px;
+    }
+  
+    .side-banner .content p {
+      font-size: 20px;
+    }
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .side-banner .content {
+      position: relative;
+      /* color: #070303; */
+      padding: 20px;
+      text-shadow: none;
+    }
+  
+    .side-banner .content h1 {
+      font-size: 30px;
+    }
+  
+    .side-banner .content p {
+      font-size: 16px;
+    }
+  }
+  
+  .side-banner img {
+    position: absolute;
+    top: 0;
+    transform: translate(-50%, 0);
+    left: 50%;
+    height: 100%;
+  }
+  
+  /* Partnership ends */
+  

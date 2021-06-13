@@ -1,0 +1,17 @@
+<h2>Our Team</h2>
+<div class="card">
+    <div class="card-headerr">
+        Our Team Member !!!!
+    </div>
+    <div class="card-body" *ngFor='let user of users;let i=index;'>
+       <p *ngIf="user.userID=== userID">
+            {{user.userName}} <br>
+            {{user.userMobile}}
+       </p>
+    </div>
+    <div class="card-footer">
+        <Button (click)="onBacktoUserList()">Back to User List</Button>
+    </div>
+</div>
+
+

@@ -1,0 +1,37 @@
+[
+  {
+    "Title":"Promotion 1",
+    "SubTitle":"Sub Title for Promotion 1 Lorem ipsum dolor sir amet, consectetur adipiscing elit, incididuntut labore et",
+    "RefUrl?":"assets/image/card/card1.jpeg",
+    "PromotionID":"RefDetails",
+    "StyleDetails" : "card bg-blue bg-blue-text mb-3"
+  },
+  {
+    "Title":"Promotion 2",
+    "SubTitle":"Sub Title for Promotion 2  Lorem ipsum dolor sir amet, consectetur adipiscing elit, incididuntut labore et",
+    "RefUrl?":"assets/image/card/card1.jpeg",
+    "PromotionID":"RefDetails",
+    "StyleDetails" : "card  bg-grey bg-grey-text mb-3"
+  },
+  {
+    "Title":"Promotion 3",
+    "SubTitle":"Sub Title for Promotion 3  Lorem ipsum dolor sir amet, consectetur adipiscing elit, incididuntut labore et",
+    "RefUrl?":"assets/image/card/card1.jpeg",
+    "PromotionID":"RefDetails",
+    "StyleDetails" : "card  bg-red bg-red-text mb-3"
+  },
+  {
+    "Title":"Promotion 4",
+    "SubTitle":"Sub Title for Promotion 4  Lorem ipsum dolor sir amet, consectetur adipiscing elit, incididuntut labore et",
+    "RefUrl?":"assets/image/card/card1.jpeg",
+    "PromotionID":"RefDetails",
+    "StyleDetails" : "card bg-yellow bg-yellow-text mb-3"
+  },
+  {
+    "Title":"Promotion 5",
+    "SubTitle":"Sub Title for Promotion 5  Lorem ipsum dolor sir amet, consectetur adipiscing elit, incididuntut labore et",
+    "RefUrl?":"assets/image/card/card1.jpeg",
+    "PromotionID":"RefDetails",
+    "StyleDetails" : "card bg-light-blue bg-light-blue-text  mb-3"
+  }
+]

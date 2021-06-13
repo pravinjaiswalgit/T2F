@@ -1,0 +1,43 @@
+<div class="card">
+
+    <div class="card-header">
+            {{ pageTitle }}
+    </div>
+
+  
+    <div class="card-body" *ngFor='let b of book'>
+      <div class="row">
+          <div class="col-md-4"> Title :</div>
+          <div class="col-md-8"> {{ b?.title }}</div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-4">  Code  :</div>
+        <div class="col-md-8"> {{ b?.code }}</div>
+    </div>
+
+    
+
+    <div class="row">
+        <div class="col-md-4"> Author :</div>
+        <div class="col-md-8"> {{ b?.author }}</div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4"> Price :</div>
+        <div class="col-md-8"> {{ b?.price }}</div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4"> Published On :</div>
+        <div class="col-md-8"> {{ b?.publicationDate }}</div>
+    </div>
+
+  
+    </div>
+
+    <div class="card-footer">
+       <button (click)="onBack()"> Back</button>
+    </div>
+
+</div>

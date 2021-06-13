@@ -1,0 +1,23 @@
+[
+    {
+      "Title":"Card 1",
+      "SubTitle":"Sub Title for Card 1",
+      "ImageUrl":"assets/image/card/card1.jpeg",
+      "RefDetails":"RefDetails",
+      "StyleDetails" : "a"
+    },
+      {
+        "Title":"Card 2",
+        "SubTitle":"Sub Title for Card 2",
+        "ImageUrl":"assets/image/card/card1.jpeg",
+        "RefDetails":"RefDetails",
+        "StyleDetails" : "a"
+      },
+      {
+        "Title":"Card 3",
+        "SubTitle":"Sub Title for Card 3",
+        "ImageUrl":"assets/image/card/card3.jpeg",
+        "RefDetails":"RefDetails",
+        "StyleDetails" : "a"
+      }
+]

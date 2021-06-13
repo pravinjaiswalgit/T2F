@@ -1,0 +1,25 @@
+<link href="partnership.component.css" rel="stylesheet" />
+<div class="row m-0 side-bannermainrow">
+    <div class="col-12 col-md-12 col-lg-4 side-banner">
+      <div class="bg--overlay"></div>
+      <img
+        src="assets/image/partnership/Partnership-main.jpeg"
+        class="img-responsive d-none d-lg-block " width="100%"
+        alt=""
+      />
+      <div class="content">
+        <h1>Partners : Image</h1>
+        <p>Partners : Image Left Logo Right : Vue</p>
+      </div>
+    </div>
+    <div class="col-12 col-md-12 col-lg-8">
+      <div class="row ">
+        
+        <div class="col-6 col-sm-4 col-md-4 partner-logo" 
+        *ngFor = 'let partnership of partnerships'>
+          <img [src]= "partnership.ImageUrl" alt="Cisco" />
+        </div>
+        
+      </div>
+    </div>
+  </div>

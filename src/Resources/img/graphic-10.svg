@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 305 305" style="enable-background:new 0 0 305 305;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#50E6FF;stroke-miterlimit:10;}
+	.st1{fill:#50E6FF;}
+	.st2{fill:none;stroke:#0078D4;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="107.5" y="107.1" class="st0" width="90" height="90"/>
+	<rect x="137.5" y="137.5" class="st1" width="30" height="30"/>
+	<rect x="122.5" y="122.5" class="st0" width="60" height="60"/>
+	<g>
+		<rect x="107.5" y="2.5" class="st2" width="90" height="14.6"/>
+		<rect x="107.5" y="17.1" class="st2" width="90" height="15"/>
+		<rect x="107.5" y="32.1" class="st2" width="90" height="15"/>
+		<rect x="107.5" y="47.1" class="st2" width="90" height="15"/>
+		<rect x="107.5" y="62.1" class="st0" width="90" height="15"/>
+		<rect x="107.5" y="77.1" class="st0" width="90" height="15.4"/>
+	</g>
+	<g>
+		<polygon class="st2" points="302.5,2.5 212.5,2.5 212.5,17.1 287.5,17.1 287.5,92.5 302.5,92.5 		"/>
+		<polygon class="st2" points="212.5,17.1 212.5,32.1 272.5,32.1 272.5,92.5 287.5,92.5 287.5,17.1 		"/>
+		<polygon class="st2" points="257.5,47.1 257.5,92.5 272.5,92.5 272.5,32.1 212.5,32.1 212.5,47.1 		"/>
+		<polygon class="st2" points="212.5,47.1 212.5,62.1 242.5,62.1 242.5,92.5 257.5,92.5 257.5,47.1 		"/>
+		<polygon class="st0" points="227.5,77.1 227.5,92.5 242.5,92.5 242.5,62.1 212.5,62.1 212.5,77.1 		"/>
+		<rect x="212.5" y="77.1" class="st0" width="15" height="15.4"/>
+	</g>
+	<rect x="2.5" y="107.1" class="st2" width="15" height="90"/>
+	<rect x="17.5" y="107.1" class="st2" width="15" height="90"/>
+	<rect x="32.5" y="107.1" class="st2" width="15" height="90"/>
+	<rect x="47.5" y="107.1" class="st2" width="15" height="90"/>
+	<rect x="62.5" y="107.1" class="st0" width="15" height="90"/>
+	<rect x="77.5" y="107.1" class="st0" width="15" height="90"/>
+	<g>
+		<rect x="287.5" y="107.1" class="st2" width="15" height="90"/>
+		<rect x="272.5" y="107.1" class="st2" width="15" height="90"/>
+		<rect x="257.5" y="107.1" class="st2" width="15" height="90"/>
+		<rect x="242.5" y="107.1" class="st2" width="15" height="90"/>
+		<rect x="227.5" y="107.1" class="st0" width="15" height="90"/>
+		<rect x="212.5" y="107.1" class="st0" width="15" height="90"/>
+	</g>
+	<polygon class="st2" points="17.5,212.5 2.5,212.5 2.5,302.5 92.5,302.5 92.5,287.1 17.5,287.1 	"/>
+	<g>
+		<polygon class="st2" points="287.5,212.5 287.5,287.1 212.5,287.1 212.5,302.5 302.5,302.5 302.5,212.5 		"/>
+		<polygon class="st2" points="287.5,212.5 272.5,212.5 272.5,272.1 212.5,272.1 212.5,287.1 287.5,287.1 		"/>
+		<polygon class="st2" points="257.5,257.1 212.5,257.1 212.5,272.1 272.5,272.1 272.5,212.5 257.5,212.5 		"/>
+		<polygon class="st2" points="257.5,212.5 242.5,212.5 242.5,242.1 212.5,242.1 212.5,257.1 257.5,257.1 		"/>
+		<polygon class="st0" points="227.5,227.1 212.5,227.1 212.5,242.1 242.5,242.1 242.5,212.5 227.5,212.5 		"/>
+		<rect x="212.5" y="212.5" class="st0" width="15" height="14.6"/>
+	</g>
+	<line class="st2" x1="17.5" y1="212.5" x2="32.5" y2="212.5"/>
+	<polygon class="st2" points="32.5,272.1 32.5,212.5 17.5,212.5 17.5,287.1 92.5,287.1 92.5,272.1 	"/>
+	<line class="st2" x1="32.5" y1="212.5" x2="47.5" y2="212.5"/>
+	<polygon class="st2" points="92.5,272.1 92.5,257.1 47.5,257.1 47.5,212.5 32.5,212.5 32.5,272.1 	"/>
+	<line class="st2" x1="47.5" y1="212.5" x2="62.5" y2="212.5"/>
+	<polygon class="st2" points="62.5,242.1 62.5,212.5 47.5,212.5 47.5,257.1 92.5,257.1 92.5,242.1 	"/>
+	<line class="st2" x1="62.5" y1="212.5" x2="77.5" y2="212.5"/>
+	<polygon class="st0" points="92.5,242.1 92.5,227.1 77.5,227.1 77.5,212.5 62.5,212.5 62.5,242.1 	"/>
+	<rect x="77.5" y="212.5" class="st0" width="15" height="14.6"/>
+	<rect x="107.5" y="287.1" class="st2" width="90" height="15.4"/>
+	<rect x="107.5" y="272.1" class="st2" width="90" height="15"/>
+	<rect x="107.5" y="257.1" class="st2" width="90" height="15"/>
+	<rect x="107.5" y="242.1" class="st2" width="90" height="15"/>
+	<rect x="107.5" y="227.1" class="st0" width="90" height="15"/>
+	<rect x="107.5" y="212.5" class="st0" width="90" height="14.6"/>
+	<polygon class="st2" points="92.5,17.1 92.5,2.5 2.5,2.5 2.5,92.5 17.5,92.5 17.5,17.1 	"/>
+	<polygon class="st2" points="32.5,32.1 92.5,32.1 92.5,17.1 17.5,17.1 17.5,92.5 32.5,92.5 	"/>
+	<polygon class="st2" points="32.5,92.5 47.5,92.5 47.5,47.1 92.5,47.1 92.5,32.1 32.5,32.1 	"/>
+	<polygon class="st2" points="62.5,62.1 92.5,62.1 92.5,47.1 47.5,47.1 47.5,92.5 62.5,92.5 	"/>
+	<polygon class="st0" points="62.5,92.5 77.5,92.5 77.5,77.1 92.5,77.1 92.5,62.1 62.5,62.1 	"/>
+	<rect x="77.5" y="77.1" class="st0" width="15" height="15.4"/>
+</g>
+</svg>

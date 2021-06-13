@@ -1,0 +1,41 @@
+<p>
+  App Component works !!!!!
+</p>
+
+
+
+
+
+
+ {{  title| uppercase  }} <br>
+
+ {{  title| lowercase  }} <br>
+
+ {{ title | titlecase }} <br>
+
+ {{ title | slice:0:5 }} <br>
+
+
+ {{ customer| json }} <br>
+
+ 
+
+ {{ myNumber | number:'2.2-2'}} <br>
+
+ {{ myNumber | currency:'GBP' }} <br>
+
+
+ {{ birthDate | date:'longDate' }}
+
+ {{ title | test:5}}
+
+ {{message}}
+
+ <app-test  (event)='message=$event' [parentData]=name></app-test>
+
+
+
+ <button type="button" class="btn btn-primary">Primary</button>
+
+
+

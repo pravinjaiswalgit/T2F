@@ -1,0 +1,61 @@
+[
+    {
+        "Name":"User 1",
+        "Age":50,
+        "Gender":"M",
+        "Mobile":8888888881,
+        "Phone":8888888881,
+        "Income":5000,
+        "UserID":1,
+        "OtherDetails":"other details 1",
+        "Adhar" : "1234567891",
+        "imageUrl":"assets/images/book1.jpg"
+      },
+      {
+        "Name":"User 2",
+        "Age":30,
+        "Gender":"M",
+        "Mobile":8888888882,
+        "Phone":8888888882,
+        "Income":3000,
+        "UserID":2,
+        "OtherDetails":"other details 2",
+        "Adhar" : "123456782",
+        "imageUrl":"assets/images/book1.jpg"
+      },
+      {
+        "Name":"User 3",
+        "Age":20,
+        "Gender":"M",
+        "Mobile":8888888883,
+        "Phone":8888888883,
+        "Income":2000,
+        "UserID":3,
+        "OtherDetails":"other details 3",
+        "Adhar" : "123456783",
+        "imageUrl":"assets/images/book1.jpg"
+      },
+      {
+        "Name":"User 4",
+        "Age":40,
+        "Gender":"M",
+        "Mobile":8888888884,
+        "Phone":8888888884,
+        "Income":4000,
+        "UserID":4,
+        "OtherDetails":"other details 4",
+        "Adhar" : "123456784",
+        "imageUrl":"assets/images/book1.jpg"
+      },
+      {
+        "Name":"User 5",
+        "Age":80,
+        "Gender":"M",
+        "Mobile":8888888888,
+        "Phone":8888888888,
+        "UserID":5,
+        "OtherDetails":"other details 5",
+        "Adhar" : "123456785",
+        "imageUrl":"assets/images/book1.jpg"
+      }
+]

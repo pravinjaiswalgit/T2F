@@ -1,0 +1,21 @@
+<!-- {{ users | json }} -->
+
+<table>
+<thead>
+    <!-- <th><button (click)="ToggleImage()">{{ShowImage?'Hide':'Show'}}</button></th> 
+    <th>Name</th>
+    <th>Mobile</th>-->
+</thead>
+<tbody>
+    <tr *ngFor='let user of users' >
+        <!-- <td><img [src]= "banner.ImageURL" [height]= "banner.ImageHeight" [width]= "banner.ImageWidth"/></td> -->
+        <td>
+            <a class="nav-link" [routerLink]="['/userlist',user.UserID]">{{user.Name}}</a>
+        </td>
+        <td>{{user.Mobile}}</td>
+    </tr>
+</tbody>
+</table>
+
+
+

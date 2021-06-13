@@ -1,0 +1,133 @@
+// Ceate Project
+D:\AngularTraining\T2F\Public Web>ng new T2F 
+
+go to T2F folder:
+D:\AngularTraining\T2F\Public Web\T2F\src\T2F>ng server -o
+
+git init
+git status
+.gitignore 
+git status
+git add .
+git commit -m "First Commit"
+git remote add origin https://github.com/pravinjaiswalgit/master.git
+UID : pravinjaiswalgit & PWD : India@123#x
+git remote -v 
+
+
+
+-----------------------
+
+ssh -T git@github.com
+-------
+
+ssh-keygen -t ed25519 -C "pravinjaiswalgit@gamil.com"
+
+echo "# master" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/pravinjaiswalgit/master.git
+git remote set-url origin https://github.com/pravinjaiswalgit/master.git
+
+
+// How to clone git via SSH : 
+
+git push -u origin main
+
+
+
+pravinjaiswalgit@gmail.co.in
+India@123#
+Mapped Email ID: pravinjaiswalgit@gamil.com
+Recovery : PWD : pravin_jassi@yahoo.co.in
+
+Git User Name : pravinjaiswalgit
+pravinjaiswalgit@gmail.co.in
+India@123#x
+
+--------------------------
+to check in new code : 
+git add .
+git commit -m "Pipeline file added"
+git push
+Git User Name : pravinjaiswalgit
+India@123#x
+
+
+-------------------------------------
+https://www.guru99.com/jenkins-tutorial.html
+ Lesson 1	How to Install Git Plugin in Jenkins — Jenkins GitHub Integration
+ Lesson 2	How to Create Users & Manage Permissions in Jenkins — A Step-by-Step Guide
+ Lesson 3	Jenkins Freestyle Project — How to Create Job in Jenkins
+ Lesson 4	Jenkins Pipeline Tutorial — How to Create JenkinsFile (Example)
+ Lesson 5	CI/CD Pipeline — Learn with Example
+ Lesson 6	Jenkins vs Travis-CI — What is the difference?
+ Lesson 7	Continuous Integration Vs. Delivery Vs. Deployment — What's the difference?
+Must Know!
+ Lesson 1	Jenkins Alternatives — 15 Best Jenkins Alternatives (Open Source & Paid)
+ Lesson 2	Jenkins Interview Questions — Top 12 Jenkins Interview Questions & Answers
+
+
+
+
+D:\AngularTraining\T2F\Public Web\T2F\src\Angular_Traing_Room_Code
+angular-loading
+book-management : Service
+demo-app
+my-app
+my-project
+routing-demo : Routing
+
+npm install --legacy-peer-deps
+
+
+D:\AngularTraining\myhttp-service
+ng new myhttp-service --force
+
+D:\AngularTraining\pc-routing
+ng new pc-routing --force
+
+-----------------------------------------------------
+// Go to Project
+D:\AngularTraining\T2F\Public Web>cd T2F  
+-----------------------------------------------------
+// Run Project
+D:\AngularTraining\T2F\Public Web\T2F>npm serve -o  
+-----------------------------------------------------
+// Create Core Module : Core
+D:\AngularTraining\T2F\Public Web\T2F> ng g m core --dry-run 
+
+ng g m eager-loading-module -m app --dry-run
+ng g m lazy-loading-module --routing --dry-run
+
+-----------------------------------------------------
+// Create Core Module
+// This will create a Folder with Name of Module and Also create ts file
+D:\AngularTraining\T2F\Public Web\T2F> ng g m core --dry-run
+D:\AngularTraining\T2F\Public Web\T2F> ng g m core
+-----------------------------------------------------
+//Create Core Component in Component Folder
+//Component Name : Banner
+D:\AngularTraining\T2F\Public Web\T2F> ng g c core/component/banner/banner --flat --dry-run 
+D:\AngularTraining\T2F\Public Web\T2F> ng g c core/component/banner/banner --flat
+
+//Component Name : Promotion
+D:\AngularTraining\T2F\Public Web\T2F> ng g c core/component/promotion/promotion --flat --dry-run 
+D:\AngularTraining\T2F\Public Web\T2F> ng g c core/component/promotion/promotion --flat
+
+-----------------------------------------------------
+
+//Create Service in Component Folder
+//Service Name : Banner
+D:\AngularTraining\T2F\Public Web\T2F> ng g s core/component/banner/banner --flat --dry-run 
+D:\AngularTraining\T2F\Public Web\T2F> ng g s core/component/banner/banner --flat
+
+//Service Name : Promotion
+D:\AngularTraining\T2F\Public Web\T2F> ng g s core/component/promotion/promotion --flat --dry-run 
+D:\AngularTraining\T2F\Public Web\T2F> ng g s core/component/promotion/promotion --flat
+
+-----------------------------------------------------
+
+

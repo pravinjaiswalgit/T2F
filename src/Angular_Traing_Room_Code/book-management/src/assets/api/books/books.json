@@ -1,0 +1,62 @@
+[
+    {
+        "bookID": 1,
+        "title": "Goodnight Moon",
+        "code":"G123-N00",
+        "author": "Margaret Wise Brown",
+        "price":45.67,		
+        "publicationDate": "March 20, 1953",
+        "starRating":4.5,
+        "imageUrl":"assets/images/book1.jpg"
+    },
+    {
+        "bookID": 2,
+        "title": "Winnie-the-Pooh",
+        "code":"Wi23-P00",
+        "author": "A. A. Milne",
+        "price":100.50,
+        "publicationDate": "April 12, 1926", 
+        "starRating":3.2,       
+        "imageUrl":"assets/images/book2.jpg"
+    },
+    {
+        "bookID": 3,
+        "title": "Where the Wild Things Are",
+        "code":"W124-A12",
+        "author": "Maurice Sendak",
+        "price":234.00,
+        "publicationDate": "December 1, 1963",
+        "starRating":4.8,
+       "imageUrl":"assets/images/book3.jpg"
+    },
+    {
+        "bookID": 4,
+        "title": "The Hobbit",
+        "code":"T123-H0B",
+        "author": "J. R. R. Tolkien",
+        "price":145.45,
+        "publicationDate": "June 30, 1937",
+        "starRating":3.8,
+        "imageUrl":"assets/images/book4.jpg"
+    },
+    {
+        "bookID": 5,
+        "title": "Curious George",
+        "code":"CR123-G02",
+        "author": "H. A. Rey",
+        "price":23.50,
+        "publicationDate": "August 9, 1941",
+        "starRating":3.1,
+        "imageUrl":"assets/images/book5.jpg"
+    },
+    {
+        "bookID": 6,
+        "title": "Alice's Adventures in Wonderland",
+        "code":"A123-A00",
+        "author": "Lewis Carroll",
+        "price":400.00,
+        "publicationDate": "November 30, 1865",
+        "starRating":5.0,
+        "imageUrl":"assets/images/book6.jpg"
+    }
+]

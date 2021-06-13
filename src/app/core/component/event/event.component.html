@@ -1,0 +1,43 @@
+<div>
+    <span><h5> Event: Component</h5></span> 
+    <!-- <span><h5> Event Description</h5></span> -->
+</div>
+<div class="container-fluid p-0">
+    <div class="performancenumberthree row m-0">
+        <div class="performancenumberthree__container">
+            <h2 class="performancenumberthree__title">EVENTS !!!!</h2>
+            <p class="performanceNumberthree__desc">
+                Lorem ipsum dolor sir amet, consectetur <br />
+                adipiscing elit, incididuntut labore et
+            </p>
+        </div>
+        <div class="cardskey" *ngFor = 'let event of events'>
+            <div class="cardsnumber">
+                <div class="row row-map">
+                    <div class="col-md-12 col-sm-12 col-xs-12 col-lg-12 map">
+                        <img [src]= "event.EventImageUrl"
+                                class="map-icon2" />
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="performancethreebg">
+                        <div class="text-container">
+                            <h4 class="fsize">{{event.EventDate}}</h4>
+                            <!-- <span class="pnuparrow-icon">
+                                <img src="../../Resources/img/up-arrow.svg" />
+                            </span> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row txt-center m-0">
+                <div class="subtext txt-center col-md-12">
+                    <h5 class="fh5">{{event.EventTitle}}</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

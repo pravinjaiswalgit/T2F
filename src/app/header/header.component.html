@@ -1,0 +1,15 @@
+<p>header Start !</p>
+<ul>
+    <p><b>User Information: </b></p>
+    <li *ngFor='let user of users'>
+        <p>Name : {{ user.Name | uppercase }}</p>
+        <p>Age : {{ user.Age }}</p>
+        <p>Gender : {{ user.Gender | lowercase }}</p>
+        <p>Mobile : {{ user.Mobile }}</p>
+        <p>Phone : {{ user.Phone }}</p>
+        <!-- <p>Mothly Income : {{ user.UserIncome | currency :'INR' }}</p> -->
+        <p>User Id : {{ user.UserID }}</p>
+        <p>User userAdhar : {{ user.Adhar}}</p>
+        <!-- To be Fix : <p>User userAdhar : {{ user.userAdhar | adhar: 10 }}</p> -->
+</ul>
+<p>header End !</p>

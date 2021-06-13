@@ -1,0 +1,36 @@
+
+<div class="container-fluid p-0 position-relative text-center multikeynumber">
+    <div class="performancebg"></div>
+    <div class="performanceNumberone">
+        <div>
+            <h2 class="performanceNumberone__title">TITLE</h2>
+            <p class="performanceNumberone__desc">
+                Lorem ipsum dolor sir amet, consectetur <br />
+                adipiscing elit, incididuntut labore et
+            </p>
+        </div>
+
+        <div class="row performanceNumberone__cardlist">
+            <div *ngFor='let organisationnumber of organisationnumbers'>
+                <div class="cards">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12 col-xs-12 col-lg-12 map">
+                            <img [src]= "organisationnumber.ImageUrl"  class="map-icon" />
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="text-container">
+                            <h4>{{organisationnumber.OrgNumber}}</h4>
+                        </div>
+                        <div class="row txt-center">
+                            <div class="subtext-container txt-center col-md-12">
+                                <h5>{{organisationnumber.OrgNumberHead}}</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
